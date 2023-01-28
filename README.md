@@ -1,5 +1,5 @@
 # todoappMVC
-It's a todoAPP use Spring Boot with MYSQL, thumleaf, JPA, hibernate
+It's a todoAPP use Spring Boot with MYSQL, thymleaf, JPA, hibernate
 ````
 -- phpMyAdmin SQL Dump
 -- version 5.2.0
